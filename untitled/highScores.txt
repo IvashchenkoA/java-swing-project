@@ -1,0 +1,9 @@
+stesha,11
+nastya,1
+nikita,4
+kot,60
+gamer,37
+
+player,67
+player,36
+player2,7
